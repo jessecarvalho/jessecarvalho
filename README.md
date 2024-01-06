@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jessé Carvalho
 ======================================================================================================================================
 
-I'm a Web Developer
+I'm a Developer
 -------------------
 
 I have a degree in computer science and have been a fullstack developer for over four years. I work with several technologies, such as C#, .NET, PHP, Vue, Angular and TypeScript, and I am always willing to learn new tools and methodologies. I work well in a team and value feedback and exchange of experiences.
