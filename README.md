@@ -10,7 +10,7 @@ I have a degree in computer science and have been a fullstack developer for over
 * 🖥️  See my portfolio at [jessecarvalho.site](http://jessecarvalho.site/en)
 * ✉️  You can contact me at [jesseelias80@gmail.com](mailto:jesseelias80@gmail.com)
 * 🚀  I'm currently working on [HairTime](https://github.com/jessecarvalho/hair-time) and [CodeTalk](https://github.com/jessecarvalho/code-talk)
-* 🧠  I'm learning Cloud Solutions, Leetcode and Software architecture;
+* 🧠  I'm learning Cloud Solutions and Software architecture;
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
